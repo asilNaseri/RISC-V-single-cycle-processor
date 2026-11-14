@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sim_1/new/TopModule_tb.vhd,1751454265,vhdl,,,,topmodule_tb,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/ALU.vhd,1751452121,vhdl2008,,,,alu,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/IMM_GEN.vhd,1750094096,vhdl2008,,,,imm_gen,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/Instruction_MEM.vhd,1751615172,vhdl2008,,,,instruction_mem,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/PC.vhd,1751452280,vhdl2008,,,,pc,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/RegisterFile.vhd,1751448335,vhdl2008,,,,registerfile,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/TopModule.vhd,1751455241,vhdl2008,,,,topmodule,,,,,,,,
+D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.srcs/sources_1/imports/Codes/control_unit.vhd,1751447633,vhdl2008,,,,control_unit,,,,,,,,

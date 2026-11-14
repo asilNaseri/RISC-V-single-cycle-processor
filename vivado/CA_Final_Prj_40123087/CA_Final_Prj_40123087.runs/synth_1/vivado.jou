@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Aug 10 23:39:06 2025
+# Process ID: 9852
+# Current directory: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.runs/synth_1
+# Command line: vivado.exe -log TopModule.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TopModule.tcl
+# Log file: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.runs/synth_1/TopModule.vds
+# Journal file: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TopModule.tcl -notrace

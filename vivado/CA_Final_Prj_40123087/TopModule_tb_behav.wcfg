@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TopModule_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TopModule_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="59000001fs"></ZoomEndTime>
+      <Cursor1Time time="6900000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="140"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/TopModule_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/PC_OutPut" type="array">
+      <obj_property name="ElementShortName">PC_OutPut[5:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_OutPut[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/RegFile_inst/reg" type="array">
+      <obj_property name="ElementShortName">reg[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg[0:31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/Data_D" type="array">
+      <obj_property name="ElementShortName">Data_D[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_D[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/IMM_GEN_inst/output" type="array">
+      <obj_property name="ElementShortName">output[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/RegFile_inst/Data_A" type="array">
+      <obj_property name="ElementShortName">Data_A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/RegFile_inst/Data_B" type="array">
+      <obj_property name="ElementShortName">Data_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_B[31:0]</obj_property>
+   </wvobject>
+</wave_config>

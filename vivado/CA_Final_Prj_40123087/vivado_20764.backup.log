@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Aug 10 23:33:34 2025
+# Process ID: 20764
+# Current directory: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5556 D:\term6\Computer Architecture\project\Codes\vivado\CA_Final_Prj_40123087\CA_Final_Prj_40123087.xpr
+# Log file: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/vivado.log
+# Journal file: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/vivado/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:11 . Memory (MB): peak = 729.863 ; gain = 148.980
+update_compile_order -fileset sources_1
+launch_runs synth_1 -jobs 8
+[Sun Aug 10 23:34:41 2025] Launched synth_1...
+Run output will be captured here: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.runs/synth_1/runme.log
+set_property part xczu4eg-fbvb900-3-e [current_project]
+reset_run synth_1
+launch_runs synth_1 -jobs 8
+[Sun Aug 10 23:39:05 2025] Launched synth_1...
+Run output will be captured here: D:/term6/Computer Architecture/project/Codes/vivado/CA_Final_Prj_40123087/CA_Final_Prj_40123087.runs/synth_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Aug 12 21:53:07 2025...
